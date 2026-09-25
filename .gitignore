@@ -1,0 +1,14 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE / OS rác
+.vscode/
+.idea/
+.DS_Store
+
+# Môi trường ảo (nếu có)
+venv/
+env/
+.env
