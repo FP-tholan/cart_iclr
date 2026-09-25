@@ -85,7 +85,3 @@ python -m experiments.statistical_test_n8
 ## 4. Pretrained Checkpoints
 
 Checkpoints for all models across the 8 datasets and 3 random seeds are provided in the anonymous cloud storage link (or `checkpoints/` directory) to facilitate evaluation without retraining.
-
-```
-
-```
